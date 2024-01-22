@@ -1,0 +1,58 @@
+<body bgcolor="White"
+</body>
+<style>
+.subscribe-button {
+background-color: red;
+width: 105px;
+height: 36px;
+color: white;
+border: none;
+font-style: initial;
+border-radius: 2px;
+cursor: pointer;
+}
+
+
+</style>
+
+
+<button class="subscribe-button">Subscribe</button>
+<b>To uddav khadka</b>
+<br><br><hr><hr>
+<button class="Like-button">Like</button>
+<style>
+.Like-button {
+background-color: blue;
+width: 105px;
+height: 36px;
+color: white;
+border: none;
+font-style: initial;
+border-radius: 2px;
+cursor: pointer;
+
+}
+</style>
+<b>To uddhav khadka</b>
+<br><br><hr>
+<style>
+    .Follow-button {
+    background-color: rgb(9, 255, 0);
+    width: 105px;
+    height: 36px;
+    color: white;
+    border: none;
+    font-style: initial;
+    border-radius: 2px;
+    cursor: pointer;
+    }
+    
+    
+    </style>
+    <button class="Follow-button">Follow</button>
+    <b>To uddav khadka</b>
+    <br><br><hr><hr>
+    <button class="Follow-button">Follow</button>
+    <style>
+    
+    
